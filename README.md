@@ -1,10 +1,15 @@
 Sequencer
 
-Author: 
+Author:
+
 	Jurgen Schober
-Date:   
+	
+Date:
+   
 	April, 2012
-Short:  
+	
+Short:
+  
 	Event driven sequencer example.
 
 Description:
