@@ -14,7 +14,7 @@ Short:
 
 Description:
 
-	This is 100% portable C++ code using boost libraries.
+	A short example which demonstrates time based events triggering "Effects" as a linear sequence. An Effect itself can send events. Also contains a custom boost based event queue. This is 100% portable C++ code using boost libraries.
 
 Libs used:
 
