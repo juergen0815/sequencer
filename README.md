@@ -25,9 +25,13 @@ Libs used:
 
 	using timers (IOSerive), boost threads and stdc++ queues for event handling (custom event queue).
 
-License: Use as is. No license other then the ones included with third party libraries are required.
+License:
 
-Compiler used: MinGW with Eclipse 3.7 Indigo (Mac and Linux targets should work, too).
+	Use as is. No license other then the ones included with third party libraries are required.
+
+Compiler used:
+
+	MinGW with Eclipse 3.7 Indigo (Mac and Linux targets should work, too).
 
 Have fun
 Jurgen
